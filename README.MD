@@ -6,3 +6,4 @@ Esse é um livro de receitas Markdown
 	- Pavê
 	- Mais um
 	- Mas outro (editado localmente)
+	- Mais um (Editado remotamente / outro usuário)
